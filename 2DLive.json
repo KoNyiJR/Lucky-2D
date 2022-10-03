@@ -1,0 +1,11 @@
+{"live_datetime":"2022-10-03",
+"live_set":"set",
+"live_value":"value",
+"live_result":"10",
+"market_status":"Close",
+"first_modern":"01",
+"first_internet":"02",
+"final_modern":"??",
+"final_internet":"??",
+"first_out":{"result":"--","set":"--","value":"--","datetime":"2022-10-03 12:01:00"},
+"final_out":{"result":"--","set":"--","value":"--","datetime":"2022-10-03 04:30:00"}}
